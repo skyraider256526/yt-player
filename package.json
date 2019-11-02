@@ -2,7 +2,7 @@
   "name": "yt-player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skyraider256526.github.io/yt-player/",
+  "homepage": "https://skyraider256526.github.io/yt-player",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
