@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyWay/static/css/main.1969915b.chunk.css",
+    "main.js": "/MyWay/static/js/main.b295a218.chunk.js",
+    "main.js.map": "/MyWay/static/js/main.b295a218.chunk.js.map",
+    "runtime-main.js": "/MyWay/static/js/runtime-main.8b4a8719.js",
+    "runtime-main.js.map": "/MyWay/static/js/runtime-main.8b4a8719.js.map",
+    "static/js/2.c9a16ca0.chunk.js": "/MyWay/static/js/2.c9a16ca0.chunk.js",
+    "static/js/2.c9a16ca0.chunk.js.map": "/MyWay/static/js/2.c9a16ca0.chunk.js.map",
+    "index.html": "/MyWay/index.html",
+    "precache-manifest.298bb3e408afafe1ddb2c337530e49ac.js": "/MyWay/precache-manifest.298bb3e408afafe1ddb2c337530e49ac.js",
+    "service-worker.js": "/MyWay/service-worker.js",
+    "static/css/main.1969915b.chunk.css.map": "/MyWay/static/css/main.1969915b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b4a8719.js",
+    "static/js/2.c9a16ca0.chunk.js",
+    "static/css/main.1969915b.chunk.css",
+    "static/js/main.b295a218.chunk.js"
+  ]
+}
